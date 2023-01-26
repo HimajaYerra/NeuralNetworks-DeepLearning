@@ -21,3 +21,16 @@ This program reads an input file named `input.txt` and performs word count on it
 ## Q3 :
 
 This program converts a list of heights from inches to centimeters using both iterative and list comprehension methods and creates a new list. 
+
+# Week3:
+
+## Q1 :
+We have class Employee with attributes `name`,`family`,list of `salaries` for consecutive years/months, `department`. We added a unique Id field to be able to store in DB as well as count the total no.of unique employees present. The Employee class has `printEmp()` method to print the details of employee and `avgsal()` method to to the average of salaries provided.
+
+FulltimeEmployee class extends Employee class and has a `printFTEmp()` method to print all details of employee object.
+
+The Employee constructor is called when a new Employee object, `emp2` is created and also when FulltimeEmployee object, `emp1` is created. We can also access method of parent class using child class objects while vice versa is not possible.
+
+## Q2 :
+
+This simple python file creates a random vector of length 20, with float values between 1-20. We reshape it to 4*5 matrix and replace the maximum value in each row by 0.0 using numpy where functionality.
