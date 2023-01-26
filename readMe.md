@@ -34,3 +34,6 @@ The Employee constructor is called when a new Employee object, `emp2` is created
 ## Q2 :
 
 This simple python file creates a random vector of length 20, with float values between 1-20. We reshape it to 4*5 matrix and replace the maximum value in each row by 0.0 using numpy where functionality.
+
+## video link :
+https://github.com/HimajaYerra/NeuralNetworks-DeepLearning/blob/main/Week3/video/video1510907795.mp4
