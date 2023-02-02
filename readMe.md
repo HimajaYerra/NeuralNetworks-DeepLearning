@@ -37,3 +37,14 @@ This simple python file creates a random vector of length 20, with float values 
 
 ## video link :
 https://github.com/HimajaYerra/NeuralNetworks-DeepLearning/blob/main/Week3/video/video1510907795.mp4
+
+# Week4:
+
+## Q1 :
+This program takes in dataset with 4 features and see some basic stats relate dto data, manipulate some data, plot them.
+
+## Q2 :
+This is the program to take salary and years of exp data and find a linear regreesor for train data. We then calculate the mean square error and plot the values.
+
+## video link :
+https://github.com/HimajaYerra/NeuralNetworks-DeepLearning/blob/main/Week4/video/video1541901771.mp4
