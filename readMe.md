@@ -48,3 +48,14 @@ This is the program to take salary and years of exp data and find a linear regre
 
 ## video link :
 https://github.com/HimajaYerra/NeuralNetworks-DeepLearning/blob/main/Week4/video/video1541901771.mp4
+
+# Week5:
+
+## Q1 :
+Implemented naive bayes classifier for given data
+
+## Q2 :
+Implemented svm classifier for the same data.
+
+### Comparison:
+The accuracy of svm is more than that of naive bayes classifier for given data. 
